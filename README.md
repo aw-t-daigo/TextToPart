@@ -56,6 +56,8 @@ pipenv run cv <ファイル名>
 - mecab 0.996
 - pipenv 2022.9.8
 
+## 手順
+
 （推奨）
 1. pyenv の導入
    1. `brew install pyenv`
